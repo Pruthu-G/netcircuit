@@ -1,0 +1,20 @@
+{
+  "name": "netcircuit",
+  "version": "1.0.0",
+  "description": "package to physically show netlists and generate netlists from circuits",
+  "homepage": "https://github.com/Pruthu-G/netcircuit#readme",
+  "bugs": {
+    "url": "https://github.com/Pruthu-G/netcircuit/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pruthu-G/netcircuit.git"
+  },
+  "license": "ISC",
+  "author": "Pruthu-G",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
