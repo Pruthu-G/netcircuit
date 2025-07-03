@@ -1,0 +1,16 @@
+{
+  "name": "netcircuit",
+  "version": "1.0.0",
+  "description": "A circuit rendering library written in typescript",
+  "license": "ISC",
+  "author": "Pruthu-G",
+  "type": "commonjs",
+  "main": "./dist/netcircuit.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "dependencies": {
+    
+  }
+}
